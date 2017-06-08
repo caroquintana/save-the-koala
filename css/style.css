@@ -47,6 +47,7 @@ a.navbar-header {
 	height: 100vh;
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-position: center center;
 }
 
 .first-section h1{
@@ -114,14 +115,27 @@ small{
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding: 5em 0;
+	background-position: center left;
 }
 
 small.texfour, h2.texfour, footer.texfour{
 	color: #fff;
 }
 
+/*FIVE SECTION*/
 
+.five-section{
+	padding: 5em 0;
+}
 
+i.fa {
+	font-size: 63px;
+	color: #A89F68;
+}
+
+a.visit{
+	color: #41521F;
+}
 /*
 
 
