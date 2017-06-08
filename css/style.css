@@ -3,6 +3,7 @@ wood brown: A89F68;
 army green: 41521F;
 */
 
+/*NAV*/
 *{
 	font-family: 'Lato', sans-serif;
 }
@@ -15,9 +16,56 @@ army green: 41521F;
 }
 
 .navbar-default {
-    background-color: transparent;
-    border-color: transparent;
+	background-color: transparent;
+	border-color: transparent;
 }
+
+.navbar{
+	font-size: 17px;
+	text-shadow: 1px 2px #999;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: white;
+}
+
+a.navbar-header {
+	margin-top: 10px;
+	margin-left: 184px;
+	color: white;
+	font-size: 20px;
+}
+
+.container-fluid {
+	margin-left: 20px;
+}
+
+.navbar-default .navbar-toggle {
+	border-color: white;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: white;
+}
+
+/*FIRST SECTION*/
+.first-section h1{
+	padding-top: 7em;
+	color: #FFF;
+	font-weight: 900;
+	font-size: 40px;
+}
+
+p{
+	color: #FFF;
+	font-weight: 400: 
+}
+
+.btn-primary{
+	background-color: #41521F;
+	border-color: #41521F;
+}
+
 /*
 
 
