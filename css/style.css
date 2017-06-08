@@ -50,7 +50,7 @@ a.navbar-header {
 }
 
 .first-section h1{
-	padding-top: 7em;
+	padding-top: 4em;
 	color: #FFF;
 	font-weight: 900;
 	font-size: 40px;
@@ -105,6 +105,22 @@ div.info3 p, div.info3 small{
 small{
 	font-size: 100%;
 }
+
+/*FOUR SECTION*/
+
+.four-section{
+	background-image: url(../img/all.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 5em 0;
+}
+
+small.texfour, h2.texfour, footer.texfour{
+	color: #fff;
+}
+
+
 
 /*
 
