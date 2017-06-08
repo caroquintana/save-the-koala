@@ -64,6 +64,8 @@ p#textmain{
 .btn-primary{
 	background-color: #41521F;
 	border-color: #41521F;
+	margin-bottom: 10px;
+	margin-top: 10px;
 }
 
 /*SECOND SECTION*/
@@ -81,6 +83,28 @@ h3{
 }
 
 
+/*THIRD SECTION*/
+.third-section{
+	padding: 5em 0;
+	background-color: #A89F68;
+}
+
+div.info3 h2{
+	color: white;
+}
+
+div.info3 h2{
+	color: #41521F;
+	font-weight: 700;
+}
+
+div.info3 p, div.info3 small{
+	color: white;
+}
+
+small{
+	font-size: 100%;
+}
 
 /*
 
