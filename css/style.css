@@ -6,6 +6,7 @@ army green: 41521F;
 /*NAV*/
 *{
 	font-family: 'Lato', sans-serif;
+	list-style: none;
 }
 
 .navbar-default {
@@ -85,7 +86,7 @@ h3{
 
 
 /*THIRD SECTION*/
-.third-section{
+.third-section {
 	padding: 5em 0;
 	background-color: #A89F68;
 }
@@ -131,37 +132,61 @@ small.texfour, h2.texfour, footer.texfour{
 i.fa {
 	font-size: 63px;
 	color: #A89F68;
+	margin-bottom: 28px;
 }
 
 a.visit{
 	color: #41521F;
 }
-/*
 
+/*SIX SECTION*/
 
-.navbar-right {
-    margin-top: -49px;
+.six-section {
+	padding: 5em 0;
+	background-color: #A89F68;
 }
 
-ul.nav.navbar-nav.navbar-right {
-    margin-right: 178px;
+h2.titlesix{
+	color: #41521F;
+	font-weight: 700;
 }
 
-.navbar-inverse .navbar-nav>li>a {
-    color: #fff;
-    font-size: 17px;
-    text-shadow: 1px 2px #999;
+p.price{
+	font-size: 80px;
+	color: white;
 }
 
-.first-section h1{
-	padding-top: 2em;
-	color: #FFF;
-	font-weight: 900;
-	font-size: 70px;
+sub{
+	font-size: 15px;
 }
 
+sup{
+	font-size: 15px;
+	top: -3.5em;
+}
 
-p{
-	color: #FFF;
-	font-weight: 400: 
-}*/
+/*SEVEN SECTION*/
+
+.seven-section {
+	padding: 5em 0;
+	background-color: #41521F;
+	color: #fff;
+}
+
+a{
+	color: #A89F68;
+}
+
+p.textseven{
+	color: #A89F68;
+	font-size: 14px;
+}
+
+.btn:hover{
+	color: #fff;
+	background-color: #A89F68;
+}
+
+a:hover{
+	color: #fff;
+}
